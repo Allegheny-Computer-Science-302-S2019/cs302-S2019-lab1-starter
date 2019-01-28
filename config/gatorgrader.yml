@@ -14,6 +14,14 @@ src/www/html:
         --fragment "github.css" --count 1
         --fragment "tufte.css" --count 1
         --fragment "```" --count 8 --exact
+# --> check the technical writing
+# mdl is a Markdown linting tool
+# proselint checks writing for common mistakes
+writing/reflection.md:
+    mdl
+    proselint
+    --paragraphs 1 --exact
+    --words 100
 # --> check the number of commits beyond a threshold
 --commits 10
 # --> check that the pandoc conversion executes and produces 0 lines of output
