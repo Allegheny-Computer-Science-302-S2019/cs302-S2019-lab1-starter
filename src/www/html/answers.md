@@ -16,7 +16,7 @@ Please find a segment of code in a provided CSS file and explain it in detail.
 If there are parts of the CSS code segment that you do not understand, that is
 fine &mdash; you should point out what is unclear and then speculate about what
 you think it does. If you are interested in doing so, please consider reading
-ahead in the textbook to learn more about CSS. Finally, you should also include
+ahead in the textbook to learn more about CSS. You should give the name of the file in an inline code block. Finally, you should also include
 the entire code segment in a fenced code block.
 
 ## How does your server return the HTML and CSS file(s) to the client?
