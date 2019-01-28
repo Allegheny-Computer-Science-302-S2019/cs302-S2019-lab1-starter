@@ -57,7 +57,7 @@ linting tool](https://github.com/markdownlint/markdownlint) and the writing
 standards set by the [Proselint tool](http://proselint.com/).
 
 The source code in the `answers.md` file must also pass additional tests set by
-the [GatorGrader tool](https://github.com/gkapfham/gatorgrader). For instance,
+the [GatorGrader tool](https://github.com/GatorEducator/gatorgrader). For instance,
 GatorGrader will check to ensure that your main file contains the required
 header and that, for instance, it contains the correct number of subheaders.
 GatorGrader will also check that you made the required number of commits to your
@@ -189,12 +189,12 @@ you can go to the [Computer Science 302 Lab 1
 Starter](https://github.com/Allegheny-Computer-Science-302-S2019/cs302-S2019-lab1-starter)
 repository and create an issue by clicking the "Issues" tab and then clicking
 the green "New Issue" button. If you have found a problem with the [GatorGrader
-tool](https://github.com/gkapfham/gatorgrader) and the way that it checks you
-assignment, then you can follow the aforementioned steps to create an issue in
-its repository. To ensure that your issue is properly resolved, please provide
-as many details as is possible about the problem that you experienced. If you
-discover a problem with the laboratory assignment sheet, then please raise an
-issue in the
+tool](https://github.com/GatorEducator/gatorgrader) and the way that it checks
+you assignment, then you can follow the aforementioned steps to create an issue
+in its repository. To ensure that your issue is properly resolved, please
+provide as many details as is possible about the problem that you experienced.
+If you discover a problem with the laboratory assignment sheet, then please
+raise an issue in the
 [cs302-S2019-sheets](https://github.com/Allegheny-Computer-Science-302-S2019/cs302-S2019-sheets)
 repository and mention this assignment.
 
