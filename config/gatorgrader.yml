@@ -23,7 +23,7 @@ writing/reflection.md:
     --paragraphs 1 --exact
     --words 100
 # --> check the number of commits beyond a threshold
---commits 10
+--commits 19
 # --> check that the pandoc conversion executes and produces 0 lines of output
 --command "pandoc src/www/html/answers.md --output=src/www/html/answers.html" --executes
 --command "pandoc src/www/html/answers.md --output=src/www/html/answers.html" --count 0 --exact
