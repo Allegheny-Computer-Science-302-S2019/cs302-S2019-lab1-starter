@@ -133,6 +133,12 @@ requirements.
   - Contains exactly eight uses of the fenced code block formatting markers
   - Can be converted to HTML by `pandoc` without producing an error
 
+- writing/reflection.md:
+  - Passes the checks performed by the Markdown linting tool
+  - Passes the checks performed by the Prose linting tool
+  - Contains exactly one contiguous paragraph of formatted text
+  - The contiguous paragraph contains at least 100 words
+
 - GitHub repository:
   - Contains five commits beyond the repository's starting number of commits
 
